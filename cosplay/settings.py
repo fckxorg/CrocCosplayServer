@@ -25,7 +25,7 @@ SECRET_KEY = 'yzcxed(+ua26e+%5h-!db&6d+&3t5&wo6b25h@%ip!x_)&@(2k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["192.168.1.65"]
+ALLOWED_HOSTS = ["192.168.1.65", "127.0.0.1"]
 
 
 # Application definition
